@@ -7,3 +7,4 @@ https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%202%20Ping%20Pong%
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%203%20Digit%20Recogniser%20AI.mp4
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%201%20Digit%20Recognizer.mp4
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%202%20Spam%20Email%20Detection.mp4
+https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%203%20Emoji%20Prediction.mp4
