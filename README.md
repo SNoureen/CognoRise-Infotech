@@ -8,3 +8,4 @@ https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%203%20Digit%20Reco
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%201%20Digit%20Recognizer.mp4
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%202%20Spam%20Email%20Detection.mp4
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%203%20Emoji%20Prediction.mp4
+https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%201%20Car%20Price%20Prediction.mp4
