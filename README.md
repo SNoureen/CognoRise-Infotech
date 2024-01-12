@@ -10,3 +10,4 @@ https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%202%20Spam%20Email
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%203%20Emoji%20Prediction.mp4
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%201%20Car%20Price%20Prediction.mp4
 https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%202%20Titanic%20Survival%20Prediction.mp4
+https://github.com/SNoureen/CognoRise-Infotech/blob/main/Task%203%20Fake%20News%20Prediction.mp4
